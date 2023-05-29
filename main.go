@@ -9,4 +9,5 @@ func main() {
 	fmt.Printf("2fa2962a-9f49-417b-8912-bhr79941a7q5")
 	fmt.Printf("hvs.Yi753NiLqZsDGISgrYVhzwq5")
 	fmt.Printf("ghp_Mer10tpSnrmwtypOhsD8CXNhOsp2fB3qHdfG")
+	fmt.Printf("ghp_Mer10tpSnrewtypOhsD8CXGhOsp2fB3qHdfG")
 }
